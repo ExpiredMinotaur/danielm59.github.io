@@ -1,0 +1,30 @@
+body {
+	font-family: 'Droid Serif', serif;
+	background-color: #adadad;
+}
+header {
+	background-color: #add0f0;
+	height: 120px;
+	text-align: center;
+	border: 3px solid #8dc0f9;
+	color: #0000cc;
+}
+header h1 {
+	font-size:40px;
+	line-height:20px;
+}
+header p {
+	font-size:25px;
+}
+.banner {
+	margin-top: -25px;
+	background-color: #808080;
+	color: #cccccc;
+	line-height:35px;
+	font-size: 25px;
+}
+
+.banner li{
+	display: inline;
+	padding-right: 25px;
+}
