@@ -11,13 +11,12 @@ header {
 }
 header h1 {
 	font-size:40px;
-	line-height:20px;
+	line-height:35px;
 }
 header p {
 	font-size:25px;
 }
 .banner {
-	margin-top: -25px;
 	background-color: #808080;
 	color: #cccccc;
 	height:35px;
