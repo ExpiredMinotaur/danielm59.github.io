@@ -10,22 +10,12 @@ header {
 	color: #0000cc;
 }
 header h1 {
-	font-size:40px;
-	line-height:35px;
+	font-size: 40px;
+	line-height: 35px;
 }
 header p {
-	font-size:25px;
+	font-size: 25px;
 }
-.banner {
-	background-color: #808080;
-	color: #cccccc;
-	height:35px;
-	line-height:35px;
-	font-size: 1.7vw;
-	white-space: nowrap;
-}
-
-.banner li{
-	display: inline;
-	padding-right: 1vw;
+nav form{
+	padding-top: 14px;
 }
