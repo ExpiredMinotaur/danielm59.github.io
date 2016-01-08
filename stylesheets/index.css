@@ -1,6 +1,6 @@
 body {
 	font-family: 'Droid Serif', serif;
-	background-color: #adadad;
+	background-color: #c0c0c0;
 }
 header {
 	background-color: #add0f0;
@@ -19,4 +19,12 @@ header p {
 nav form{
 	padding-top: 14px;
 	padding-left: 10px;
+}
+nav a{
+	font-size:20px;
+}
+
+.main p {
+	font-size:18px;
+	text-align: center;
 }
